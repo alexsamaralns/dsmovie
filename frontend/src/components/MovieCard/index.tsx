@@ -7,7 +7,6 @@ type Props = {
 }
 
 function MovieCard({ movie }: Props) {
-  console.log("movie: ", movie);
 
   return (
     <div>
