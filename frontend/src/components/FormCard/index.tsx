@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import MovieStars from 'components/MovieStars';
 import { Link, useNavigate } from 'react-router-dom';
 import { Movie } from 'types/movie';
 import './styles.css';
